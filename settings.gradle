@@ -1,2 +1,2 @@
-include ':chapter01'
+include ':chapter02'
 rootProject.name = "AndroidMsaterClassStudy"
